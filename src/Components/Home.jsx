@@ -10,6 +10,6 @@ export const Home=()=>{
     <Banner/>
     <Arrof/>
     <Round/>
-     <Footer/>                      
+     {/* <Footer/>                       */}
     </>)
 }
