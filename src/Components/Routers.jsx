@@ -9,7 +9,7 @@ export const Routings=()=>{
 
         <BrowserRouter>
         <Routes>
-            <Route path="/" element={<Home/>}> </Route>
+            <Route path="/vetritask" element={<Home/>}> </Route>
         </Routes>
         </BrowserRouter>
         
